@@ -42,13 +42,13 @@ body{
     background-color: white;
     color: black;
     box-shadow: 10px;
-/* 
+
     margin-left: 8%;
-    margin-right: 8%; */
-    animation-name: ctnanimation;
+    margin-right: 8%;
+    /* animation-name: ctnanimation;
     animation-duration: 4s;
     transition: 10s;
-    animation-iteration-count: infinite;
+    animation-iteration-count: infinite; */
 }
 h2{
     margin-left: 20px;
